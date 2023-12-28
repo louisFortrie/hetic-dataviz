@@ -1,0 +1,48 @@
+.choix {
+  width: 50%;
+  vertical-align: top;
+  display: inline-block;
+}
+
+#top table {
+  margin: 0 auto;
+}
+
+#top tr th {
+  text-align: center;
+  min-width: 100px;
+  background-color: steelblue;
+  color: white;
+}
+#top td{
+  padding: 0 10px;
+}
+#top td.texte {
+  text-align: left;
+}
+#top td.nombre {
+  text-align: right;
+}
+#top tbody tr:nth-child(odd) {
+  background-color: lightblue;
+}
+
+.tooltip {
+  position: absolute;
+  text-align: center;
+  width: 60px;
+  height: 28px;
+  padding: 2px;
+  font: 12px sans-serif;
+  border: 0px;
+  border-radius: 15px;
+  pointer-events: none;
+  font-weight:bold;
+}
+#nuage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90vw;
+  height: 90vh;
+}
