@@ -1,11 +1,3 @@
-# 📊 Hetic Dataviz 📊
-
-## 📝️ Table of contents 📝
-
-- [ℹ️ Introduction ℹ️](#-introduction-)
-- [⚙️ Installation ⚙️](#️-installation-️)
-- [🚀 Start the project 🚀](#-start-the-project-)
-
 ## ℹ️ Introduction ℹ️
 
 TP from : [https://github.com/mtbinds/DATAVIZ](https://github.com/mtbinds/DATAVIZ)
